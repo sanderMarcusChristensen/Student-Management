@@ -34,5 +34,3 @@ This is a simple React application to manage a list of students. It allows users
 - **Edit Mode**: When editing, the modal has a blue header and a "Save Changes" button.
 - **New Mode**: When adding a new student, the modal has a green header and an "Add Student" button.
 
-## File Structure
-
